@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_google">Google</string>
+    <string name="title_face">Facebook</string>
+    <string name="title_android">Android</string>
+    <string name="title_gmail">Gmail</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="option_setting">Setting</string>
+</resources>
